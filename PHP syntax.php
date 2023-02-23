@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Installation</title>
+	<title>PHP syntax</title>
 </head>
 <body>
 
